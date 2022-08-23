@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     env:
       PR_BRANCH: example-expo
-      EXPO_PROJECT: '@jarmy/brownbagexpo'
+      EXPO_PROJECT: '@daniel.grychtol/expo-prev-demo'
     steps:
       - uses: actions/checkout@v2
       - uses: actions/setup-node@v2
