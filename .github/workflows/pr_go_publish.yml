@@ -1,10 +1,8 @@
 name: Publish on Pull Request
 
 on:
-  push:
-    paths:
-      - example-expo/**
-      - src/**
+  push
+
 jobs:
   pr_build:
     name: Push to Expo Go on Pull Requests
