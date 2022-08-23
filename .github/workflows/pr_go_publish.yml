@@ -1,7 +1,6 @@
 name: Publish on Pull Request
 
-on:
-  push
+on: push
 
 jobs:
   pr_build:
