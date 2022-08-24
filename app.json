@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "expoPreview",
-    "slug": "expoPreview",
+    "name": "expo-bb-tech",
+    "slug": "expo-bb-tech",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
