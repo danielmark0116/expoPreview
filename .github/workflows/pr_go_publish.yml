@@ -8,7 +8,7 @@ jobs:
     runs-on: ubuntu-latest
     env:
       PR_BRANCH: example-expo
-      EXPO_PROJECT: '@daniel.grychtol/expo-prev-demo'
+      EXPO_PROJECT: "@daniel_grychtol/expo-bb-tech"
     steps:
       - uses: actions/checkout@v2
       - uses: actions/setup-node@v2
